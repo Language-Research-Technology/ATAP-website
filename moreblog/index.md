@@ -1,74 +1,25 @@
-# Dummy Blog Post
+# Lorem Ipsum Blog Post
 
 
 
-Written by Simon Musgrave
+Written by Leah
 
 <br />
-Data is becoming increasingly important in today’s world, so corpus linguists might feel that the rest of the world is finally catching up. But the rest of the world are bringing with them new approaches to how data is handled. This means that fields such as corpus linguistics may need to reassess their practices. Such reassessment includes addressing concerns about how data is stored and who can access it (data stewardship) – concerns that area part of the Open Science movement, ultimately grounded on principles of equity and accountability. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam arcu ante, vehicula sed dapibus sed, venenatis at purus. Aliquam ultrices suscipit ipsum, et venenatis urna faucibus posuere. Donec semper sem ac eros porta consectetur. Suspendisse finibus diam vel condimentum condimentum. Cras ut mi orci. Integer vestibulum accumsan mattis. Duis interdum varius molestie. Etiam nibh neque, imperdiet quis dapibus bibendum, rhoncus convallis nibh. Proin ullamcorper ex neque. Donec quis nibh suscipit, auctor metus vel, euismod tortor. Nam condimentum tellus vitae lectus suscipit faucibus. Vivamus a ligula porttitor, vestibulum neque ut, volutpat lacus. Morbi sed tempus libero.  
 <br /><br />
-The most influential approach to data stewardship today is the FAIR principles.
-According to these principles, data should be:
-- *Findable* 
-<br />
-&emsp; Metadata and data should be easy to find for both humans and computers. 
-- *Accessible*
-<br />
-&emsp; Once the user finds the required data, she/he/they need to know how can they be accessed, possibly including authentication and authorisation.
-- *Interoperable*
-<br />
-&emsp; The data usually need to be integrated with other data. In addition, the data need to interoperate with applications or workflows for analysis, storage, and processing.
-- *Reusable*
-<br />
-&emsp; The ultimate goal of FAIR is to optimise the reuse of data. To achieve this, metadata and data should be well-described so that they can be replicated and/or combined in different settings.
-<br /><br />
-In general, corpus linguists do well on the interoperability criterion. Corpus data is usually stored in non-proprietary formats; even when some structure is imposed on the data, this is almost always in a form which is saved as a simple text file (e.g. csv files or xml annotations). Data stored in such formats is easy to move between applications. But what about the other three criteria? 
+Donec in accumsan nisl, ut tristique felis. Proin auctor dolor elit, sed molestie lorem tincidunt quis. Etiam eu mauris dapibus tortor tempor tincidunt. Nunc dapibus mollis risus, nec sollicitudin nisi tempor a. In nec mi id leo dapibus laoreet vitae ut lorem. Pellentesque vitae felis eros. Cras eget euismod diam, a gravida lectus. Nullam efficitur augue libero, sed posuere massa fringilla nec. Donec at odio sed tortor commodo egestas id a tellus. Donec posuere eros justo, sed efficitur ante pretium in. Pellentesque a consequat ex, in sollicitudin lorem. Donec elementum tempus imperdiet. Nam vitae lobortis magna. Fusce non eros risus. Phasellus tincidunt dignissim nulla id pulvinar. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
 
-Some corpus data is easy to discover; it is findable. For example CLARIN, the portal to the European Union language resource infrastructure, provides access to many large data collections, as does the Linguistic Data Consortium in the USA. However, some data is never made part of a large collection and often remains under the control of individual researchers or research teams. Such data may be almost impossible to find. Even if we can find such data, it is unlikely to be accompanied by good descriptions of the data and metadata, making reusability problematic. Of course, big corpora such as the British National Corpus will be both findable and accompanied by comprehensive corpus manuals. However, it is worth considering how to make other corpora more findable, including the provision of corpus manuals or corpus descriptions. Corpus resource databases such as the Corpus Resource Database (CoRD) do aim to work towards this principle.
+- *Lorem* 
+<br />
+&emsp; Praesent tempor aliquet mauris, id sodales metus viverra ut. Fusce nec lorem dui. Proin ut magna sit amet ipsum pretium aliquam eget et augue. Praesent sed nibh eget mauris aliquam tempor. Sed egestas tincidunt odio, in congue urna commodo in. Curabitur nec orci lobortis, vulputate purus sed, mattis libero.  
 
-Accessibility may also be an issue for some data. Copyright law may allow use of material for individual research but prohibit any further distribution of the material. The FAIR approach to such cases is that metadata should be available so that interested parties can know that a data holding exists (F), and the metadata will include information about the conditions under which the data may or may not be shared or reused (A and R). 
-<br /><br />
-(Image from Global Indigenous Data Alliance https://www.gida-global.org/)
-<br /><br />
-For linguists, there is another very important set of principles concerning data, the CARE principles developed by the Global Indigenous Data Alliance:
+- *Ipsum*
 <br />
-- *Collective Benefit*
+&emsp; Etiam condimentum mauris quam, id gravida est mollis eu. Pellentesque dignissim sit amet velit nec mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec porta lacinia venenatis. Quisque sem mi, malesuada nec scelerisque sit amet, facilisis nec tortor. 
 <br />
-&emsp; Data ecosystems shall be designed and function in ways that enable Indigenous Peoples to derive benefit from the data.
 <br />
-- *Authority to control*
-<br />
-&emsp;Indigenous Peoples’ rights and interests in Indigenous data must be recognised and their authority to control such data be empowered.
-<br />
-- *Responsibility*
-<br />
-&emsp;Those working with Indigenous data have a responsibility to share how those data are used to support Indigenous Peoples’ self-determination and collective benefit.
-<br />
-- *Ethics*
-<br />
-&emsp;Indigenous Peoples’ rights and wellbeing should be the primary concern at all stages of the data life cycle and across the data ecosystem.
-
-<br />
-These principles are presented as applying particularly to Indigenous data, but we believe that researchers should adopt this approach in all cases where the people who participate in our research can be seen to have some moral rights in the information they have contributed. Respecting those moral rights should be demonstrated by recognising the participants’ authority to control how data is used, by seeking to ensure that participants derive benefit from use of the data, and by acting ethically and transparently in our relations with the participants. Deborah Cameron and her colleagues (Cameron et al 1993) raised similar issues almost 20 years ago, arguing that the imbalance of power in the relation between researchers and participants needed to be reduced. The CARE principles continue along this path, but go even further in explicitly returning power to the sources of information. 
-
-Corpus data is often written language. We have already mentioned that copyright law is relevant to some such material, and that body of law protects at least some rights for the creators of the material. But corpus linguists also work with other kinds of data such as spoken language (spontaneous or produced as a response to some prompt) or written material produced by research participants according to some protocol. In such cases, ethical research practice should include addressing the issues raised by the CARE principles. Some aspects of this practice will fall under institutional ethics requirements (for example, thinking carefully about what permissions we request on consent forms), but other questions must be part of the relationship between the researcher and the research participants. Corpus linguists working with spoken, computer-mediated, or otherwise particularly sensitive data have been aware of at least some of these issues, but the CARE principles offer an opportunity to go further.
-
-Acquiring data for linguistic research takes effort and often that means money. It is therefore a good use of resources if any data we collect can be used by others. The FAIR principles provide a framework to make sharing and reusing data easier, and applying the CARE principles where relevant helps to ensure that our research has a sound ethical basis.
-
-<br />
-<hr />
-<br />
-
-Note: This post is based on the presentation ‘Advance Australia FAIR’,  given by Simon Musgrave and Michael Haugh to the 4th Forum on Englishes in Australia (LaTrobe University, August 27, 2021). You can access a recording of the presentation here. 
-
-<br />
-
-Thanks to Leah Gustafson and Monika Bednarek for helpful comments on drafts.
-
-<br />
-
 **Reference:**
-Cameron, Deborah, Elizabeth Frazer, Penelope Harvey, Ben Rampton & Kay Richardson. 1993. Ethics, advocacy and empowerment: Issues of method in researching language. Language & Communication 13(2). 81–94. https://doi.org/10.1016/0271-5309(93)90001-4.
+[Lorem Ipsum](https://www.lipsum.com/)
 
 
 
