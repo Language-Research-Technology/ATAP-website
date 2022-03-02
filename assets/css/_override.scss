@@ -30,7 +30,7 @@ body {
     margin-left: 7%;
     margin-right: 7%;
     margin-top: 5%;
-    margin-bottom: 10%;
+    margin-bottom: 3%;
     //background-color: #339911; // dk green
 }
 
@@ -77,7 +77,7 @@ h1.custom {
 }
 
 h2.custom {
-    font-size: 22px;
+    font-size: 28px;
     line-height: 150%;
     font-weight: normal;
     //margin-top: 150px;
@@ -89,6 +89,14 @@ h3.custom {
     line-height: 200%;
     font-weight: normal;
 }
+
+.twitter-position {
+    //background-color: yellow;
+    left: 600px;
+    margin-top: 0px;
+    padding: 40px;
+}
+
 
 // ========== Variable Overrides ========== //
 
