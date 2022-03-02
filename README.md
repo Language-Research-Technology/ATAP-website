@@ -26,7 +26,12 @@ All the images are stored in the static folder. To display on a page use
 
 All commits should go to the master branch of the ATAP-website repository. There is a workflow that pushes master commits to the the gh-pages branch automatically.
 
+These instructions are for after your own local .git has been set up. The repo uses SSH so you will need a key.
 
+To push changes to the repo. Check first with 'code' git status 
+to check what changes have been made.
+
+git commit -m " Whatever notes describe the changes in the commit "
 
 If the submodule needs to be updated, run the following git command:
 'code' git submodule update --init --recursive
