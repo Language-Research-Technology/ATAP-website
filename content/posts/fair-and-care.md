@@ -33,7 +33,7 @@ Some corpus data is easy to discover; it is findable. For example CLARIN, the po
 
 Accessibility may also be an issue for some data. Copyright law may allow use of material for individual research but prohibit any further distribution of the material. The FAIR approach to such cases is that metadata should be available so that interested parties can know that a data holding exists (F), and the metadata will include information about the conditions under which the data may or may not be shared or reused (A and R). 
 <br /><br />
-(Image from Global Indigenous Data Alliance https://www.gida-global.org/)
+[Image from Global Indigenous Data Alliance] (https://www.gida-global.org/){:target="_blank"}
 <br /><br />
 For linguists, there is another very important set of principles concerning data, the CARE principles developed by the Global Indigenous Data Alliance:
 <br />
@@ -73,7 +73,7 @@ Thanks to Leah Gustafson and Monika Bednarek for helpful comments on drafts.
 <br />
 
 **Reference:**
-Cameron, Deborah, Elizabeth Frazer, Penelope Harvey, Ben Rampton & Kay Richardson. 1993. Ethics, advocacy and empowerment: Issues of method in researching language. Language & Communication 13(2). 81–94. https://doi.org/10.1016/0271-5309(93)90001-4.
+Cameron, Deborah, Elizabeth Frazer, Penelope Harvey, Ben Rampton & Kay Richardson. 1993. Ethics, advocacy and empowerment: Issues of method in researching language. Language & Communication 13(2). 81–94. [https://doi.org/10.1016/0271-5309(93)90001-4](https://doi.org/10.1016/0271-5309(93)90001-4){:target="_blank"}
 
 
 
