@@ -2,6 +2,8 @@
     {{- $params := .Scratch.Get "params" -}}
     {{- $profile := .Site.Params.home.profile -}}
     {{- $posts := .Site.Params.home.posts -}}
+	<base href="{{ .Site.BaseURL }}">
+
 
 
     <div class="page home"{{ if ne $posts.enable false }} posts{{ end }}>
