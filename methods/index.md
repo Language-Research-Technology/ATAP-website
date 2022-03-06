@@ -39,7 +39,7 @@ Concordances are often a first step in analysis. The concordance allows a resear
 
 
 
-![alt Example of concordance](/concordance.png)
+![alt Example of concordance](concordance.png)
 
 
 (The example here was produced by [Antconc](https://www.laurenceanthony.net/software/antconc/)) 
