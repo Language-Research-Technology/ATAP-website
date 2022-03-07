@@ -1,4 +1,5 @@
 baseURL = ""
+canonifyURLs = true
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "en"
 # language code
