@@ -31,10 +31,14 @@ These instructions are for after your own local .git has been set up. The repo u
 To push changes to the repo. Check first with 'code' git status 
 to check what changes have been made.
 
+```bash
 git add .
 git commit -m " Whatever notes describe the changes in the commit "
 git push
+```
 
 If the submodule needs to be updated, run the following git command:
-'code' git submodule update --init --recursive
-
+ 
+```bash
+git submodule update --init --recursive
+```
