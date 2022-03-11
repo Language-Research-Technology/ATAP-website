@@ -73,7 +73,7 @@ This article uses bigram frequencies as part of an analysis of language change:
 An article which uses concordances and collocation analysis:
 <div class="reference"><font size="3">Baker, Paul & Tony McEnery. 2005. A corpus-based approach to discourses of refugees and asylum seekers in UN and newspaper texts. <i>Journal of Language and Politics</i> 4(2). 197–226.</font></div>
 
-This article uses the discovery of shared patterns of collocation as evidence that the words are at least partial synonyms:
+This research uses the discovery of shared patterns of collocation as evidence that the words are at least partial synonyms:
 
 <div class="reference"><font size="3">McEnery, Tony & Helen Baker. 2017. <i>Corpus linguistics and 17th-century prostitution: computational linguistics and history</i> (Corpus and Discourse. Research in Corpus and Discourse). London; New York, NY: Bloomsbury Academic. (especially chapters 4 and 5)</font></div>
 
@@ -116,7 +116,7 @@ The following two articles taken together give an account of a technique for par
 
 <div class="reference"><font size="3">Leavy, Susan, Mark T Keane & Emilie Pine. 2019. Patterns in language: Text analysis of government reports on the Irish industrial school system with word embedding. <i>Digital Scholarship in the Humanities</i> 34(Supplement_1). i110–i122. <a href="https://doi.org/10.1093/llc/fqz012" target="_blank">https://doi.org/10.1093/llc/fqz012</a>.</font></div>
 
-<div class="reference"><font size="3">Pine, Emilie, Susan Leavy & Mark T. Keane. 2017. Re-reading the Ryan Report: Witnessing via and Close and Distant Reading. <i>Éire-Ireland</i> 52(1–2). 198–215. https://doi.org/10.1353/eir.2017.0009. (<a href="https://researchrepository.ucd.ie/handle/10197/10287" target="_blank">available online</a>)</font></div>
+<div class="reference"><font size="3">Pine, Emilie, Susan Leavy & Mark T. Keane. 2017. Re-reading the Ryan Report: Witnessing via Close and Distant Reading. <i>Éire-Ireland</i> 52(1–2). 198–215. https://doi.org/10.1353/eir.2017.0009. (<a href="https://researchrepository.ucd.ie/handle/10197/10287" target="_blank">available online</a>)</font></div>
 
 [Wikipedia](https://en.wikipedia.org/wiki/Document_classification)
 
@@ -153,7 +153,7 @@ This article (section 6.3) discusses why entity recognition is not as useful as 
 
 
 #### Computational Stylistics (Stylometry) 
-This method is also referred to as authorship attribution as the classification task looks at patterns of language use in order to decide whether to attribute a piece of text to a particular author (and with what degree of confidence). Seemingly simple classifiers are used for this task as they are assumed to be less open to conscious manipulation by writers. For example, comparative patterns of occurrence of function words such as *the* and *a/an* are considered a better classifier than occurrences of content words. Character n-grams, that is sequences of characters of a specified length, have also proven to be a good classifier for use in this task. A recent example of these techniques being applied in a case which received a good deal of public attention was the controversy about whether [Robert Galbraith was really J.K Rowling](https://languagelog.ldc.upenn.edu/nll/?p=5315).
+This method is also referred to as authorship attribution as the classification task is to assess patterns of language use in order to decide whether to attribute a piece of text to a particular author (and with what degree of confidence). Seemingly simple classifiers are used for this task as they are assumed to be less open to conscious manipulation by writers. For example, comparative patterns of occurrence of function words such as *the* and *a/an* are considered a better classifier than occurrences of content words. Character n-grams, that is sequences of characters of a specified length, have also proven to be a good classifier for use in this task. A recent example of these techniques being applied in a case which received a good deal of public attention was the controversy about whether [Robert Galbraith was really J.K Rowling](https://languagelog.ldc.upenn.edu/nll/?p=5315).
 
 The Wikipedia entry on [stylometry](https://en.wikipedia.org/wiki/Stylometry) gives further information on the methodology. 
 
