@@ -1,7 +1,7 @@
 # Organisation
 
 
-We need some sort of blurb in here.
+ATAP is one strand of the partnership between the Australian Research Data Commons ([ARDC](https://ardc.edu.au/)) and the [School of Languages and Cultures](https://languages-cultures.uq.edu.au/) at the [University of Queensland](https://www.uq.edu.au/). This partnership includes a number of  projects that explore language-related technologies, data collection infrastructure and Indigenous capability programs. These projects are being led out of the Language Technology and Data Analytics Lab ([LADAL](https://slcladal.github.io/index.html)), which is overseen by [Professor Michael Haugh](https://languages-cultures.uq.edu.au/profile/1498/michael-haugh) and [Dr Martin Schweinberger](https://languages-cultures.uq.edu.au/profile/4295/martin-schweinberger).
 
 <br />
 <hr />
@@ -17,7 +17,6 @@ We need some sort of blurb in here.
 **University of Sydney:**
 
 - Professor Monika Bednarek (Sydney Corpus Lab)
-- Dr Joel Nothman (Sydney Informatics Hub)
 
 **AARNet**
 
@@ -39,12 +38,13 @@ We need some sort of blurb in here.
 - Marco La Rosa
 - Michael D’Silva (AARNet)
 - River Smith
+- Alvin Sebastian
 
 ### Applications and Training Team
 
 **Lead: Ben Foley**
 
-- Joel Nothman (Sydney Informatics Hub)
+- Michael Niemann
 - Marius Mathers (Sydney Informatics Hub)
 
 ### Data and Policy Team
@@ -59,7 +59,7 @@ We need some sort of blurb in here.
 
 - Sara King (AARNet)
 - Leah Gustafson
-- Harriet Shepard
+- Harriet Sheppard
 
 <br />
 

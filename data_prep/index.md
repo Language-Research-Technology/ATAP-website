@@ -7,8 +7,8 @@ This is a nice article about data wrangling from Harvard business school. They a
 
 <br />
 
- ![What data scientists spend the most time doing - pie chart](data-prep-approach-time.png)
  
+ {{< figure src="/data-prep-approach-time.png" alt="What data scientists spend the most time doing - pie chart" caption="What data scientists spend the most time doing - pie chart" >}}
  <br />
  
 This graphic is, sadly, all too true. Data scientists and those who are using data as part of their research spend much of their time preparing their dataset and transforming its structure into a format that can be used (often referred to as data wrangling or data munging). The Australian Text Analytics Platform will offer a range of tools to assist in cleaning text data and performing other preliminary operations which can prepare the data for analysis. ATAP analysis notebooks assume a common data structure, however the platform will provide notebooks containing code for transforming data into the structure that is needed for the procedure(s) in the analysis notebooks.
