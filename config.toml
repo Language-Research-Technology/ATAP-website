@@ -105,6 +105,14 @@ theme = "LoveIt"
     url = "resources/"
     title = ""
     weight = 4
+[[menu.main]]
+    identifier = "events"
+    pre = ""
+    post = ""
+    name = "Events"
+    url = "events/"
+    title = ""
+    weight = 4
   [[menu.main]]
     identifier = "organisation"
     pre = ""

@@ -7,7 +7,7 @@ draft: false
 
 ---
 
-[Counting words]({{< relref "methods.md#counting-words" >}}) &emsp;&emsp; [More complex methods - Classification]({{< relref "methods.md#more-complex-methods--classification" >}})  &emsp;&emsp; [More complex methods - Others]({{< relref "methods.md#more-complex-methods--others" >}} "More complex methods - Others") &emsp;&emsp; [Visualisation]({{< ref "methods.md#visualisation" >}} "Visualisation")
+[Counting words](#counting-words) &emsp;&emsp; [More complex methods - Classification](#more-complex-methods--classification)  &emsp;&emsp; [More complex methods - Others](#more-complex-methods--others) &emsp;&emsp; [Visualisation](#visualisation)
 
 ### Introduction
 Throughout this page, we have given links to further information in Wikipedia and in the tutorials provided by the Language Technology and Data Analysis Laboratory [LADAL](https://slcladal.github.io/) at the University of Queensland. We also have given references to published research using the methods we discuss.
@@ -41,7 +41,7 @@ The ratio of types and tokens in a text has been used as a measure of lexical di
 
 #### Concordance
 A concordance allows the researcher to see all instances of a word or phrase in a text, neatly aligned in a column and with preceding and following context (see image below).
-Concordances are often a first step in analysis. The concordance allows a researcher to see how a word is used and in what contexts. Most concordancing tools allow sorting of results by either preceding or following words – the coloured text in the example below shows that in this case the results have been sorted hierarchically on the three following words. This possibility can help in discovering patterns of co-occurrence. Concordances are also very useful when looking for good examples to illustrate a point. (The type of display seen in the example is often referred to as KeyWord In Context – KWIC. There is a possibility of confusion here, as there is a separate analytic method commonly referred to as [Keywords](methods#keywords).)
+Concordances are often a first step in analysis. The concordance allows a researcher to see how a word is used and in what contexts. Most concordancing tools allow sorting of results by either preceding or following words – the coloured text in the example below shows that in this case the results have been sorted hierarchically on the three following words. This possibility can help in discovering patterns of co-occurrence. Concordances are also very useful when looking for good examples to illustrate a point. (The type of display seen in the example is often referred to as KeyWord In Context – KWIC. There is a possibility of confusion here, as there is a separate analytic method commonly referred to as [Keywords](#keywords).)
 
 
 {{< figure src="/concordance.png" alt="Example of a concordance" >}}

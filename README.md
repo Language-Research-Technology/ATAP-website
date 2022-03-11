@@ -42,3 +42,6 @@ If the submodule needs to be updated, run the following git command:
 ```bash
 git submodule update --init --recursive
 ```
+##Working with a local version
+
+If you want to work on pages on your own computer, you will need to clone the github repo and also have Hugo installed on your machine. Be sure to install the **extended** version of Hugo (some things do not work properly in the regular version).
