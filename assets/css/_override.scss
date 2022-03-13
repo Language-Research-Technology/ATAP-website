@@ -93,8 +93,9 @@ h3.custom {
 .twitter-position {
     margin-top: 0px;
     padding: 40px;
+    max-height: 400px;
+    overflow: scroll;
 }
-
 // Color of the secondary text
 $global-font-secondary-color: #e34e25;
 $global-font-secondary-color-dark: #e34e25;
