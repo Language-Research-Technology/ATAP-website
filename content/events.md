@@ -36,7 +36,7 @@ This online workshop is offered free to Australian researchers and research stud
 
 Register via [Eventbrite](https://www.eventbrite.com.au/e/monotreme-mania-comparative-text-analytics-on-twitter-data-registration-275328062647)
 
-**Update** - 09/03/2022 The workshop is now fully booked. If you missed out, do check back next week in case of cancellations, and [let us know](mailto:info@atap.edu.au) if you're keen for us to run the workshop again later.
+**Update** - 09/03/2022 The workshop is now fully booked. If you missed out, do check back next week in case of cancellations, and [let us know](mailto:s.musgrave@uq.edu.au) if you're keen for us to run the workshop again later.
 
 Brought to you by the teams at the Australian Digital Observatory ([ADO](https://www.digitalobservatory.net.au/)) and the Australian Text Analytics Platform (ATAP) via the Australian Research Data Commons ([ARDC](https://ardc.edu.au/)).
 
