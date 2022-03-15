@@ -1,6 +1,6 @@
 # Events
 
-[Webinars](#webinars)  &emsp;&emsp;[Forthcoming workshops](#forthcoming-workshops) &emsp;&emsp; [Previous workshops](#previous-workshops)   
+[Webinars](#webinars)  &emsp;&emsp;[Forthcoming workshops](#forthcoming-workshops) &emsp;&emsp; [Previous workshops](#previous-workshops)   &emsp;&emsp; [Office Hours](#office-hours)
 ### Webinars
 
 Our webinar series is a joint initiative with the Language Technology and Data Analysis Laboratory ([LADAL](https://slcladal.github.io/index.html)), (School of Languages and Cultures, University of Queensland). LADAL sponsored [webinars](https://slcladal.github.io/webinars2022.html) take place in the alternate months.
@@ -44,6 +44,10 @@ Brought to you by the teams at the Australian Digital Observatory ([ADO](https:/
 **Length**: 3 hours
 **Facilitators**: Sara King, Simon Musgrave
 
+### Office Hours
 
+We invite Australian researchers working with linguistics, text analytics, digital and computational methods, social media and web archives, and much more to attend our regular online office hours, jointly hosted with the [Digital Observatory](https://research.qut.edu.au/digitalobservatory/). Bring your technical questions, research problems and rough ideas and get advice and feedback from the combined expertise of our ARDC research infrastructure projects. No question is too small, and even if we don’t know the answer we are likely to be able to point you to someone who does.
+
+These sessions run over Zoom from 2-3pm (Australia/Sydney time) every second Tuesday - [details](https://research.qut.edu.au/digitalobservatory/office-hours/).
 
 
