@@ -52,6 +52,7 @@ ATAP is one strand of the partnership between the Australian Research Data Commo
 **Lead: Kathrin Kaiser**
 
 - Cale Johnstone
+- Maria Weaver
 
 ### Engagement and Outreach Team
 
