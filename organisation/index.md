@@ -53,6 +53,7 @@ ATAP is one strand of the partnership between the Australian Research Data Commo
 
 - Cale Johnstone
 - Maria Weaver
+- Adam Bell (AARNet)
 
 ### Engagement and Outreach Team
 
