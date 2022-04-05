@@ -1,44 +1,81 @@
 # Resources
 
-<br />
+[Indigenous Knowledge](#indigenous-knowledge) &emsp; [Ethics](#ethics) &emsp; [Language Archives](#language-archives) &emsp; [Tools](#tools) &emsp; [Publications](#publications)
+### Indigenous knowledge 
+
+[Protocols](https://australiacouncil.gov.au/wp-content/uploads/2021/07/protocols-for-using-first-nati-5f72716d09f01.pdf) for using First Nations Cultural and Intellectual Property in the Arts (Australia Council)
+
+Citing indigenous elders and knowledge keepers
+- [Templates For Citing Indigenous Elders and Knowledge Keepers](https://kula.uvic.ca/index.php/kula/article/view/135) (Lorisia Macleod)
+- University of Alberta Library's [Guide](https://guides.library.ualberta.ca/c.php?g=715568&p=5112574)
+- University of Alberta Library's [blog](https://news.library.ualberta.ca/blog/2022/01/27/citing-indigenous-elders-and-knowledge-keepers/)
+ 
+Decolonising linguistics: [Spinning a better yarn](https://www.dynamicsoflanguage.edu.au/ialr/decolonising-linguistics-spinning-a-better-yarn/) 
+
+Rawlings, V, Flexner, J L, Riley, L (eds.) (2021) *[Community-Led Research: Walking New Pathways Together](https://open.sydneyuniversitypress.com.au/files/9781743327630.pdf)*. Sydney University Press
+
+#### Indigenous Languages of Australia
+
+- [Austlang](https://collection.aiatsis.gov.au/austlang/about): AustLang provides a controlled vocabulary of persistent identifiers, a thesaurus of languages and peoples, and information about Aboriginal and Torres Strait Islander languages which has been assembled from referenced sources.
+- [First Languages Australia](https://www.firstlanguages.org.au/): First Languages Australia encourages communication between communities, the government and key partners whose work can impact Aboriginal and Torres Strait Islander languages.
+- [Living Languages](https://www.livinglanguages.org.au/): Living Languages provides grassroots training to people, communities and Language Centres in Australia doing language work on the ground in remote, regional and urban areas.
+- Language Centres: The Indigenous Languages and Arts (ILA) program  currently supports a number of organisations, including a network of 20 language centres. A list of these centres is available from [this page](https://www.arts.gov.au/documents/indigenous-languages-and-arts-program-language-centres) (pdf or docx format). 
+- [Nyingarn](https://nyingarn.net/): a platform for primary sources in Australian Indigenous languages 
+- [Digital Daisy Bates](https://bates.org.au/): a collection of over 23,000 pages of wordlists of Australian languages, originally recorded by Daisy Bates in the early 1900s, made up of the original questionnaires and around 4,000 pages of typescripts.
+- [50 Words Project](https://50words.online/): The 50 Words Project showcases words from 64 languages across Australia, with further languages being added regularly as more communities around Australia become involved. For each language you can hear the words spoken via a map that shows the general location of the language.
+- [Australian Indigenous language collections](https://www.nla.gov.au/research-guides/indigenous-language-resources#): a guide to materials held in the National Library of Australia, with links to similar resources at State Libraries. 
+- Living Archive of Australian Languages: see [below](#language-archives)
+-  Contemporary and Historical Reconstruction in the Indigenous Languages of Australia ([CHIRILA](http://www.pamanyungan.net/chirila/)): CHIRILA is a lexical database (a database with words from different languages). Currently there are about 780,000 words, from all over Australia, of which about 20% is publicly available.
 
 
-[Language Technology and Data Analysis Laboratory (LADAL)](https://slcladal.github.io/)
 
-LADAL aims to help develop computational and digital skills by providing information and practical, hands-on tutorials on data and text analytics as well as on statistical methods relevant for language research.
+### Ethics
 
-<br />
+Australian Institute of Aboriginal and Torres Strait Islander Studies [Code of ethics](https://aiatsis.gov.au/research/ethical-research/code-ethics)
 
-[GLAM Workbench](https://glam-workbench.net/)
-The GLAM workbench is a collection of tools, tutorials, examples, and hacks created by Tim Sherratt to help you work with data from galleries, libraries, archives, and museums (the GLAM sector). The primary focus is Australia and New Zealand, but new collections are being added all the time.
+Linguistic Society of America: 
 
-<br />
+- [Ethics Statement 2019](https://www.linguisticsociety.org/content/lsa-revised-ethics-statement-approved-july-2019)
+- [Further resources](https://www.linguisticsociety.org/resource/ethics-further-resources)
 
-[CONSTELLATE](https://constellate.org/)
-Constellate is the text analytics service from the not-for-profit ITHAKA - the same people who brought you JSTOR and Portico. It is a platform for teaching, learning, and performing text analysis using the world’s leading archival repositories of scholarly and primary source content.
+### Language Archives
 
-<br />
+- [LAAL](https://livingarchive.cdu.edu.au/): 
+The Living Archive of Aboriginal Languages is a digital archive of endangered literature in Australian Indigenous languages of the Northern Territory. It contains nearly 4000 books in 50 languages from 40 communities available to read online or download freely. This is a living archive, with connections to the people and communities where the books were created. This will allow for collaborative research work with the Indigenous authorities and communities.
+- [PARADISEC](https://www.paradisec.org.au/): The Pacific and Regional Archive for Digital Sources in Endangered Cultures holds 14,500 hours of audio recordings and 2,000 hours of video recordings that might otherwise have been lost. These recordings are of performance, narrative, singing, and other oral tradition. This amounts to 150 terabytes, and represents 1,315 languages, mainly from the Pacific region.
+- [ELAR](https://www.elararchive.org/): The Endangered Languages Archive is a digital repository for preserving multimedia collections of endangered languages from all over the world, making them available for future generations.
+- [The Language Archive](https://archive.mpi.nl/tla/): The Language Archive (TLA) is an integral part of the Max Planck Institute for Psycholinguistics in Nijmegen. It contains various types of materials, including: audio and video language corpus data from languages around the world; photographs, notes, experimental data, and other relevant information required to document and describe languages and how people use them; records of speech in everyday interactions in families and communities; naturalistic data from adult conversations from endangered and under-studied languages, and linguistic phenomena.
+- [Kaipuleohone Language Archive](http://ling.hawaii.edu/kaipuleohone-language-archive/): Kaipuleohone is the digital language archive of the University of Hawaiʻi. Founded in 2008, the archive houses texts, images, audio, and video collected from around the world by linguists, anthropologists, ethnomusicologists, and more. Our collection includes a wealth of photographs, notes, dictionaries, transcriptions, and other materials related to small and endangered languages.
+- [DELAMAN](https://www.delaman.org/): The Digital Endangered Languages and Musics Archive is an international network of archives of data on linguistic and cultural diversity, in particular on small languages and cultures under pressure.
 
-[The Art of Literary Text Analysis](https://github.com/sgsinclair/alta/blob/master/ipynb/ArtOfLiteraryTextAnalysis.ipynb)
+### Tools
 
-The Art of Literary Text Analysis (ALTA) has three objectives.
-- First, to introduce concepts and methodologies for literary text analysis programming. It doesn't assume you know how to program or how to use digital tools for analyzing texts.
-- Second, to show a range of analytical techniques for the study of texts. While it cannot explain and demonstrate everything, it provides a starting point for humanists with links to other materials.
-- Third, to provide utility notebooks you can use for operating on different texts. These are less well documented and combine ideas from the introductory notebooks.
+- [Audacity](https://www.audacityteam.org/): Audacity is a free, easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems.
+- [ELAN](https://archive.mpi.nl/tla/elan): a tool for making time-aligned annotations on audio and video recordings.
+- [Praat](https://www.fon.hum.uva.nl/praat/): Free software for doing phonetics by computer.
+- [FieldWorks](https://software.sil.org/fieldworks/): Software tools for managing linguistic and cultural data. FieldWorks supports tasks ranging from the initial entry of collected data through to the preparation of data for publication, including dictionary development, interlinearization of texts, morphological analysis, and other publications.
+- [Toolbox](https://software.sil.org/toolbox/): Toolbox is a data management and analysis tool for field linguists. It is especially useful for maintaining lexical data, and for parsing and interlinearizing text, but it can be used to manage virtually any kind of data.
+- [Mukurtu](https://mukurtu.org/): A grassroots project aiming to empower communities to manage, share, and exchange their digital heritage in culturally relevant and ethically-minded ways.
 
-<br />
+### Publications
 
-[Introduction to Cultural Analytics & Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) is an online textbook by Melanie Walsh, which offers an introduction to the programming language Python that is specifically designed for people interested in the humanities and social sciences. This book demonstrates how Python can be used to study cultural materials such as song lyrics, short stories, newspaper articles, tweets, Reddit posts, and film screenplays. It also introduces computational methods such as web scraping, APIs, topic modeling, Named Entity Recognition (NER), network analysis, and mapping.
+- [The Open Handbook of Linguistic Data Management](https://direct.mit.edu/books/book/5244/The-Open-Handbook-of-Linguistic-Data-Management) 
+Edited by Andrea L. Berez-Kroeker, Bradley McDonnell, Eve Koller, Lauren B. Collister.
 
-<br />
+"A guide to principles and methods for the management, archiving, sharing, and citing of linguistic research data, especially digital data. “Doing language science” depends on collecting, transcribing, annotating, analyzing, storing, and sharing linguistic research data. This volume offers a guide to linguistic data management, engaging with current trends toward the transformation of linguistics into a more data-driven and reproducible scientific endeavor. It offers both principles and methods, presenting the conceptual foundations of linguistic data management and a series of case studies, each of which demonstrates a concrete application of abstract principles in a current practice."
 
-[Text Analysis Pedagogy Institute](https://labs.jstor.org/tapi/) is an open educational institute for the benefit of teachers (and aspiring teachers) of text analysis in the digital humanities.
+This material is Open Access.
 
-<br />
+- [Language Documentation and Conservation](https://nflrc.hawaii.edu/ldc/)
 
-[The Programming Historian](https://programminghistorian.org/) publishes novice-friendly, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows to facilitate research and teaching.
+“LD&C publishes papers on all topics related to language documentation and conservation, including, but not limited to, the goals of language documentation, data management, fieldwork methods, ethical issues, orthography design, reference grammar design, lexicography, methods of assessing ethnolinguistic vitality, archiving matters, language planning, areal survey reports, short field reports on endangered or underdocumented languages, reports on language maintenance, preservation, and revitalization efforts, plus software, hardware, and book reviews.”
 
-<br />
+LD&C is an Oopen Access journal.
 
-[Quinn Dombrowski's list of relevant courses and tutorials](https://github.com/quinnanya/dh-jupyter)
-A collection of Jupyter notebooks in many human and computer languages for doing digital humanities. 
+- [Living languages/Lenguas vivas/Línguas vivas journal](https://scholarworks.umass.edu/livinglanguages/)
+
+“Living Languages is an international, multilingual journal dedicated to topics in language revitalization and sustainability. The goal of the journal is to promote scholarly work and experience-sharing in the field. The primary focus is on bringing together language revitalization practitioners from a diversity of backgrounds, whether academic or not, within a peer-reviewed publication venue that is not limited to academic contributions and is inclusive of a diversity of perspectives and forms of expression.”
+
+*Living Languages* is an Open Access journal.
+
+- [Pacific Linguistics](http://sealang.net/archives/pl/): a digital archive of many Pacific Linguistics publications up to 2012.
