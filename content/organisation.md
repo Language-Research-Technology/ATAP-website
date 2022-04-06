@@ -35,7 +35,7 @@ ATAP is one strand of the partnership between the Australian Research Data Commo
 
 ### Technology and Interoperability Team
 
-**Lead: Peter Sefton**
+- **Lead: Peter Sefton**
 
 - Moises Sacal
 - Marco La Rosa
@@ -45,20 +45,22 @@ ATAP is one strand of the partnership between the Australian Research Data Commo
 
 ### Applications and Training Team
 
-**Lead: Ben Foley**
+- **Lead: Ben Foley**
 
 - Michael Niemann
 - Marius Mathers (Sydney Informatics Hub)
 
 ### Data and Policy Team
 
-**Lead: Kathrin Kaiser**
+- **Lead: Kathrin Kaiser**
 
 - Cale Johnstone
+- Maria Weaver
+- Adam Bell (AARNet)
 
 ### Engagement and Outreach Team
 
-**Lead: Simon Musgrave**
+- **Lead: Simon Musgrave**
 
 - Sara King (AARNet)
 - Leah Gustafson

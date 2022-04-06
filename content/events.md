@@ -25,22 +25,19 @@ Paweł Kamocki is a legal expert in Leibniz-Institut für Deutsche Sprache, Mann
 
 ### Forthcoming workshops 
 
-#### 16 March 2022 - Monotreme Mania!
+#### 18 May 2022 - Network analysis and Topic Modeling (using R)
+This workshop will apply the two analysis methods to twitter data from the 2019 Federal election.
 
-**Comparative text analytics on Twitter data**
-
-This online workshop is offered free to Australian researchers and research students and will cover:
-
-- Collecting and transforming Twitter data using twarc.
-- Analysing the collected Twitter data using the R ecosystem for text analytics.
-
-Register via [Eventbrite](https://www.eventbrite.com.au/e/monotreme-mania-comparative-text-analytics-on-twitter-data-registration-275328062647)
-
-**Update** - 09/03/2022 The workshop is now fully booked. If you missed out, do check back next week in case of cancellations, and [let us know](mailto:s.musgrave@uq.edu.au) if you're keen for us to run the workshop again later.
-
-Brought to you by the teams at the Australian Digital Observatory ([ADO](https://www.digitalobservatory.net.au/)) and the Australian Text Analytics Platform (ATAP) via the Australian Research Data Commons ([ARDC](https://ardc.edu.au/)).
+Details to follow.
 
 ### Previous workshops
+
+#### Monotreme Mania! Comparative text analytics on Twitter data
+**Date**: 16 March 2022
+**Event**: Joint event ADO and ATAP
+**Length**: 3 hours
+**Facilitators**: Sam Hames, Simon Musgrave
+
 #### An introduction to Jupyter notebooks for text analysis: Virtual workshop for absolute beginners
 **Date**: 24 November 2021
 **Event**: Digital Humanities Australasia 2021 Conference
