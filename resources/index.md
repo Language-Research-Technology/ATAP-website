@@ -1,6 +1,6 @@
 # Resources
 
-[Indigenous Knowledge](#indigenous-knowledge) &emsp; [Ethics](#ethics) &emsp; [Language Archives](#language-archives) &emsp; [Tools](#tools) &emsp; [Publications](#publications)
+[Indigenous Knowledge](#indigenous-knowledge) &emsp; [Ethics](#ethics) &emsp; [Language Archives](#language-archives) &emsp; [Tools](#tools) &emsp; [Publications](#publications) &emsp; [Languages of the World](#languages-of-the-world) &emsp; [Australian Organisations](#australian-organisations)
 ### Indigenous knowledge 
 
 [Protocols](https://australiacouncil.gov.au/wp-content/uploads/2021/07/protocols-for-using-first-nati-5f72716d09f01.pdf) for using First Nations Cultural and Intellectual Property in the Arts (Australia Council)
@@ -33,6 +33,10 @@ Rawlings, V, Flexner, J L, Riley, L (eds.) (2021) *[Community-Led Research: Walk
 
 Australian Institute of Aboriginal and Torres Strait Islander Studies [Code of ethics](https://aiatsis.gov.au/research/ethical-research/code-ethics)
 
+Australian Linguistic Society [policies](https://als.asn.au/AboutALS/Policies): includes Policy on Linguistic rights of Aboriginal and Islander communities and Statement of Ethics.
+
+[Australian Code for the Responsible Conduct of Research, 2018](https://www.nhmrc.gov.au/about-us/publications/australian-code-responsible-conduct-research-2018)
+
 Linguistic Society of America: 
 
 - [Ethics Statement 2019](https://www.linguisticsociety.org/content/lsa-revised-ethics-statement-approved-july-2019)
@@ -60,7 +64,7 @@ The Living Archive of Aboriginal Languages is a digital archive of endangered li
 ### Publications
 
 - [The Open Handbook of Linguistic Data Management](https://direct.mit.edu/books/book/5244/The-Open-Handbook-of-Linguistic-Data-Management) 
-Edited by Andrea L. Berez-Kroeker, Bradley McDonnell, Eve Koller, Lauren B. Collister.
+Edited by Andrea L. Berez-Kroeker, Bradley McDonnell, Eve Koller, Lauren B. Collister. MIT Press 2022.
 
 "A guide to principles and methods for the management, archiving, sharing, and citing of linguistic research data, especially digital data. “Doing language science” depends on collecting, transcribing, annotating, analyzing, storing, and sharing linguistic research data. This volume offers a guide to linguistic data management, engaging with current trends toward the transformation of linguistics into a more data-driven and reproducible scientific endeavor. It offers both principles and methods, presenting the conceptual foundations of linguistic data management and a series of case studies, each of which demonstrates a concrete application of abstract principles in a current practice."
 
@@ -70,7 +74,7 @@ This material is Open Access.
 
 “LD&C publishes papers on all topics related to language documentation and conservation, including, but not limited to, the goals of language documentation, data management, fieldwork methods, ethical issues, orthography design, reference grammar design, lexicography, methods of assessing ethnolinguistic vitality, archiving matters, language planning, areal survey reports, short field reports on endangered or underdocumented languages, reports on language maintenance, preservation, and revitalization efforts, plus software, hardware, and book reviews.”
 
-LD&C is an Oopen Access journal.
+LD&C is an Open Access journal.
 
 - [Living languages/Lenguas vivas/Línguas vivas journal](https://scholarworks.umass.edu/livinglanguages/)
 
@@ -79,3 +83,21 @@ LD&C is an Oopen Access journal.
 *Living Languages* is an Open Access journal.
 
 - [Pacific Linguistics](http://sealang.net/archives/pl/): a digital archive of many Pacific Linguistics publications up to 2012.
+
+### Languages of the world
+
+- [Glottolog](https://glottolog.org/): Comprehensive reference information for the world's languages, especially the lesser known languages. LDaCA uses Glottolog [language codes](../metadata/#glottologhttpsglottologorg) in our metadata. 
+
+- Open Language Archives Community ([OLAC](http://www.language-archives.org/)) is an international partnership of institutions and individuals who are creating a worldwide virtual library of language resources by: (i) developing consensus on best current practice for the digital archiving of language resources, and (ii) developing a network of interoperating repositories and services for housing and accessing such resources. OLAC harvests metadata and their web site has a search facility to find resources for languages. OLAC [metadata recommendations](../metadata/#olachttpwwwlanguage-archivesorg) are the basis for some of LDaCA's metadata.
+
+- [Ethnologue](https://www.ethnologue.com/): *Ethnologue* provides information about the languages of the world, but operates on a subscription model. The information which is available without a subscription is very limited: the first three lines of individual language entries which include the ISO 639-3 code, the classification of the language into a language family, and a link to the language’s OLAC page.
+
+- The World Atlas of Linguistic Structures Online ([WALS](https://wals.info/)) is a large database of structural (phonological, grammatical, lexical) properties of languages gathered from descriptive materials (such as reference grammars) by a team of 55 authors.
+
+### Australian Organisations
+
+- The Australian Linguistic Society ([ALS](https://als.asn.au/Home)) is the national organisation for linguists and linguistics in Australia. Its primary goal is to further interest in and support for linguistics research and teaching in Australia.
+
+- The Applied Linguistics Association of Australia ([ALAA](https://alaa.net.au/)) is the national professional organisation for applied linguistics in Australia. We welcome academics, teachers, researchers, students and members of the wider community to join us and become part of an active community interested in questions, issues and problems that can be understood and addressed through a focus on language in our world.
+
+- 
