@@ -17,6 +17,10 @@ The GLAM workbench is a collection of tools, tutorials, examples, and hacks crea
 
 <br />
 
+The [Sydney Corpus Lab](https://sydneycorpuslab.com/) aims to promote corpus linguistics in Australia, hosts a growing list of English-language corpora, and features regular blogs about corpus linguistic analysis.
+
+<br />
+
 [CONSTELLATE](https://constellate.org/)
 Constellate is the text analytics service from the not-for-profit ITHAKA - the same people who brought you JSTOR and Portico. It is a platform for teaching, learning, and performing text analysis using the world’s leading archival repositories of scholarly and primary source content.
 
