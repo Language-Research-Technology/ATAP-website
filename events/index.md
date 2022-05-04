@@ -28,10 +28,22 @@ Paweł Kamocki is a legal expert in Leibniz-Institut für Deutsche Sprache, Mann
 
 ### Forthcoming workshops 
 
-#### 18 May 2022 - Network analysis and Topic Modeling (using R)
-This workshop will apply the two analysis methods to twitter data from the 2019 Federal election.
+#### Network analysis and Topic Modeling on Twitter data using R
 
-Details to follow.
+This online workshop is offered free to Australian researchers and research students and will cover:
+- Introduction to network theory.
+- Fundamental principles of using R for network analysis.
+- Topic modeling of tweet text using R.
+The data used for the workshop will be an open source dataset of Twitter data relating to the 2019 Federal Election.
+
+**Date**: May 18 2022
+**Time**: 9:00AM - 12:00PM AEST
+**Venue**: Online
+
+[Registration](https://www.eventbrite.com.au/e/network-analysis-and-topic-modeling-on-twitter-data-using-r-registration-327690108937)
+
+Brought to you by the teams at the Australian Digital Observatory ([ADO](https://www.digitalobservatory.net.au/)) and the Australian Text Analytics Platform (ATAP) via the Australian Research Data Commons ([ARDC](https://ardc.edu.au/)).
+
 
 ### Previous workshops
 
