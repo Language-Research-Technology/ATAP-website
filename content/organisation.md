@@ -16,6 +16,7 @@ ATAP is one strand of the partnership between the Australian Research Data Commo
 **University of Queensland:** 
 
 - Professor Michael Haugh
+- Dr Martin Schweinberger
 
 **University of Sydney:**
 
